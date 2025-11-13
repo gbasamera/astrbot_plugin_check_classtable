@@ -1,0 +1,8 @@
+{
+    "pathfile": {
+        "description": "分析群文件的结果存储路径",
+        "hint": "需要写出绝对路径，如不存在则会自动创建",
+        "type": "string",
+        "default": "/etc/astrbot/classtable.jso"
+    }
+}
